@@ -1,0 +1,189 @@
+body{
+  margin:0;
+  padding:0;
+  width:100%;
+  line-height:1.5;
+  text-decoration:none;
+  border:0;
+}
+.sayfa{
+  width:100%;
+  height:100%;
+}
+.top{
+  background-color: white;
+  margin:20px;
+}
+header{
+  background-color:#ff3030;
+  padding:.2em;
+  width:100%;
+  height:150px;
+  position: sticky;
+  z-index: 99;
+}
+
+.AltMenu a,a:link,.AltMenu a:hover, .AltMenu a:active, .AltMenu a:visited{
+  font-family: "Open Sans",Arial, "Helvetica Neue ", Helvetica,"sans-serif";
+  font-size: 14px;
+  color:#646464;
+  line-height:1.5;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  text-decoration: none;
+  margin: auto;
+}
+
+.as{
+  color:black;
+}
+.as :hover{
+  background-color:purple;
+  color:white;
+}
+p{
+  margin:.5em;
+}
+.float{
+  font-size:1.5em;
+  padding:.2em;
+  margin-left:.5em;
+  margin-bottom:.5em;
+  float:right;
+  text-align:right;
+}
+.inputs{
+  width:300px;
+  height:40px;
+}
+
+section{
+  border:1px solid skyblue;
+}
+.l{
+  text-decoration: none;
+}
+.l:hover{
+  text-decoration: underline;
+  color:red
+}
+#test{
+  margin-left: 10px;
+  background-color:#cdc4c4;
+  color:black;
+  width:100%;
+}
+.mod{
+  color:black;
+
+}
+.MaviAlanMenusu a:link,.MaviAlanMenusu a:hover, .MaviAlanMenusu a:active, .MaviAlanMenusu a:visited{
+  font-family: "Open Sans",Arial, "Helvetica Neue ", Helvetica,"sans-serif";
+  font-size: 14px;
+  color:#FFFFFF;
+  line-height:1.5;
+  font-style:normal;
+  font-variant:normal;
+  font-weight: normal;
+  text-decoration: none;
+  margin: auto;
+}
+.AnaMenu a:link,.AnaMenu a:hover, .AnaMenu a:active, .AnaMenu a:visited{
+  font-family: "Open Sans",Arial, "Helvetica Neue ", Helvetica,"sans-serif";
+  font-size: 14px;
+  color:#646464;
+  line-height:1.5;
+  font-style:normal;
+  font-variant:normal;
+  font-weight: bold;
+  text-decoration: none;
+  margin: auto;
+
+
+}
+.AltMenu a,a:link,.AltMenu a:hover, .AltMenu a:active, .AltMenu a:visited{
+  font-family: "Open Sans",Arial, "Helvetica Neue ", Helvetica,"sans-serif";
+  font-size: 14px;
+  color:#646464;
+  line-height:1.5;
+  font-style:normal;
+  font-variant:normal;
+  font-weight:normal;
+  text-decoration: none;
+  margin: auto;
+  float:left;
+}
+
+.SonucSayfalari{
+  font-size: .1em;
+  color:black;
+  background-size: auto;
+}
+
+.InputAlani{
+  width:90%;
+  height:30px;
+  padding= 0px 10px ;
+}
+.SelectAlanlari{
+  width:90%;
+  height:40px;
+  padding= 0px 10px;
+}
+
+.TextAreaAlanlari{
+  width:90%;
+  height:200px;
+  padding= 10px 10px ;
+}
+
+.YesilButon{
+  height:40px;
+  border:1px solid #009900;
+  background-color: green;
+  color:white;
+}
+
+.YesilButon:hover{
+  height:40px;
+  border:1px solid #009900;
+  background-color: green;
+  color:black;
+}
+.Formbuton{
+  height:40px;
+  border:1px solid #009900;
+  background-color: red;
+  color:white;
+}
+
+.Formbuton:hover{
+  height:40px;
+  border:1px solid #009900;
+  background-color: red;
+  color:black;
+}
+.Ana{
+  padding-bottom: 30px;
+}
+.haber{
+  width:50px;
+  height:50px;
+   padding-bottom: 30px;
+}
+.bagıs{
+  color:black;
+}
+.elbise{
+  line-height:1.5em;
+  font-family: "Open Sans",Arial, "Helvetica Neue ", Helvetica,"sans-serif";
+  text-decoration: underline;
+  color:blue;
+}
+.aw{
+  color:black;
+}
+.aw :hover{
+  background-color:red;
+}
